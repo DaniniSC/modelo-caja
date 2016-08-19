@@ -1,0 +1,18 @@
+p {
+	text-align: center;
+	border: 1px dashed black;
+	background-color: white;
+}
+.cajaExterna {
+	background-color: purple;
+	padding: 20px;
+	width: 740px;
+	height: 110px;
+}
+.cajaInterna {
+	padding: 20px 10px 40px 30px;
+	background-color: pink;
+	width: 700px;
+	height: auto;
+	position: absolute;
+}
